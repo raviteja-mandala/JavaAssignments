@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: raviteja.assignment.main.MainClass
+Class-Path: /home/ravitm/IdeaProjects/JavaAssignment5/out
+
