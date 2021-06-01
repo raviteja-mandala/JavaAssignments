@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zemoso.javaassignments.JavaAssignment2
+Class-Path: /home/ravitm/IdeaProjects/JavaAssignment2/out
+
