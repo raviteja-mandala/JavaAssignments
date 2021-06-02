@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zemoso.javaassignment.VampireNumber
+Class-Path: /home/ravitm/IdeaProjects/JavaAssignment6/out
+
