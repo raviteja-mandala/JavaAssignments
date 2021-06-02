@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.zemoso.exception.TestExceptions
+Class-Path: /home/ravitm/IdeaProjects/JavaAssignment8/out
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JavaAssignment8:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavaAssignment8_jar</output-path>
+    <root id="archive" name="JavaAssignment8.jar">
+      <element id="module-output" name="JavaAssignment8" />
+    </root>
+  </artifact>
+</component>
