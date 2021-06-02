@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TestRegex:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TestRegex_jar</output-path>
+    <root id="archive" name="JavaAssignment9.jar">
+      <element id="module-output" name="JavaAssignment9" />
+    </root>
+  </artifact>
+</component>
